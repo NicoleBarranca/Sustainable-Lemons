@@ -7,11 +7,12 @@
 
 <h1 align="center">Sustainable Lemons</h1>
 
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+<div align="center">
 
-## LICENSES
+<a href="https://opensource.org/licenses/MIT">![License](https://img.shields.io/badge/License-MIT-green.svg)</a>
+<a href="https://opensource.org/licenses/BSD-2-Clause">![License](https://img.shields.io/badge/License-BSD_2_Clause-yellowgreen.svg)</a>
 
-???
+</div>
 
 ## Description
 

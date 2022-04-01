@@ -1,0 +1,30 @@
+{
+  "name": "sustainable-lemons",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">   <a href=\"\" rel=\"noopener\">  <img width=200px height=200px src=\"./images/SL.png\" alt=\"Project logo\"></a> </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeds/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicoleBarranca/Sustainable-Lemons.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicoleBarranca/Sustainable-Lemons/issues"
+  },
+  "homepage": "https://github.com/NicoleBarranca/Sustainable-Lemons#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15",
+    "sequelize": "^6.17.0"
+  }
+}
