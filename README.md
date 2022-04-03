@@ -1,6 +1,4 @@
-# Sustainable-Lemons
-
-  <p align="center">
+<p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="./images/SL.png" alt="Project logo"></a>
 </p>
