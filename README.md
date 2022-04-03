@@ -14,25 +14,26 @@
 
 ## Description
 
-???
+Sustainable Lemons is an ecommerce website. This repo contains the back-end for that website.
 
 ## Installation
 
-???
-
 1. Clone this repo to your local device.
-2. Enter "npm init" in the CLI (to access the node.js package)
-3. Answer "yes"
-4. Enter "npm install ? "
+2. Enter "npm init -y" in the CLI (to access the node.js package)
+3. Install the packages below:
+
+```
+-> dotenv
+-> express
+-> mysql2
+-> Sequelize
+
+```
 
 ## Usage
 
-???
-
-1. Open a new terminal
-2. Enter "node index.js"
-3. Answer the prompts to add information to your README
-4. Take a look at the README file in the output directory
+The contents in this repo includes a schema for the database being used.
+The funtionality of this repo is to allow CRUD operations for merchandise, specifically categories, products and tags.
 
 ## Built With
 
@@ -47,7 +48,7 @@
 
 Here is a [video of Sustainable Lemon's functionality.]().
 
-<img width=378px height=209px src="" alt=""></a>
+<img width=378px height=209px src="./images/Ins.Png" alt="CRUD requests in Insomnia"></a>
 
 ## Contribution
 
