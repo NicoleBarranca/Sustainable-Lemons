@@ -42,7 +42,7 @@ The funtionality of this repo is to allow CRUD operations for merchandise, speci
 - Express.js
 - Sequelize
 - MySQL2
-- dotenv
+- Dotenv
 
 ## Website
 
