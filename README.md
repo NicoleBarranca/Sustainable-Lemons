@@ -48,7 +48,7 @@ The funtionality of this repo is to allow CRUD operations for merchandise, speci
 
 Here is a [video of Sustainable Lemon's functionality.]().
 
-<img width=378px height=209px src="./images/Ins.Png" alt="CRUD requests in Insomnia"></a>
+<img width=300px height=220px src="./images/Ins.png" alt="CRUD requests in Insomnia"></a>
 
 ## Contribution
 
