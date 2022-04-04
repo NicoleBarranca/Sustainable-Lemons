@@ -46,7 +46,7 @@ The funtionality of this repo is to allow CRUD operations for merchandise, speci
 
 ## Website
 
-Here is a [video of Sustainable Lemon's functionality.]().
+Here is a [video of Sustainable Lemon's functionality.](https://watch.screencastify.com/v/YwoxtUS3VRQAlrhbeBQL).
 
 <img width=300px height=220px src="./images/Ins.png" alt="CRUD requests in Insomnia"></a>
 
